@@ -8,7 +8,7 @@
 
 <!-- Intro section -->
 <div>
-    <p><font size="4">
+    <p><font size="5">
         I am a computer science graduate with a passion for IT and software development. With a proven ability to learn new technologies quickly and apply them to solve problems. I'm seeking an entry-level to middle-level position in a fast-paced, innovative environment. Some technologies I enjoy working with include MERN Stack(Mongodb, Express, ReactJS + Nodejs) and Jamstack(JavaScript, APIs + Markup). 👩🏾‍💻
     </p>
     <p>
